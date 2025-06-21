@@ -1,4 +1,4 @@
-# Neural Network Analysis on Health Dataset – ITIS5433 Assignment 4
+# Neural Network Analysis on Health Dataset
 
 ## 📌 Brief Description
 This project explores predictive modeling using neural networks applied to an obfuscated health dataset. The goal is to compare different neural network configurations with decision trees to identify the most accurate model for health status prediction.
